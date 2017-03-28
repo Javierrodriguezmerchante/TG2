@@ -1,2 +1,6 @@
 # TG2
-TG2 del grupo T3
+Titulo: SDK (API) de generacion de voz 
+  Usuarios: 
+    Javier Gonzalez Iglesias
+    Sandra Felix Blazquez
+    Javier Rodríguez Merchante
